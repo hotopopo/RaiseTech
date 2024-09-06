@@ -23,4 +23,4 @@
 ![DBアクセス](image/DBakusesu.png)
 
 ## Rails の構成管理ツールの名前
-bundler
+- bundler
